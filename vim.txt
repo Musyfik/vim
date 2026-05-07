@@ -1,0 +1,61 @@
+
+cara merubah esc jadi kj di vim :
+- buat file ".vimrc" di "~" atau ketik di terminal "vim ~/.vimrc"
+- ketik ini "inoremap kj <Esc>"
+
+
+penjelasan noremap :
+- Insert mode → inoremap
+- Normal mode → nnoremap
+- Visual mode → vnoremap
+- Command mode → cnoremap
+- Semua mode → noremap (jarang dipakai)
+
+
+pengaturan vim di vscode :
+- buka keyboard shortcuts :
+   - file -> preferences -> keyboard shortcuts
+   - ctrl + shift + p lalu ketik open keyboard shortcuts
+- lalu buka open keyboard shortcuts (JSON)
+- hapus semuanya
+- ke keyboard shortcuts lagi lalu hapus defautl vim shortcut berikut :
+   - ctrl + a
+   - ctrl + p
+   - ctrl + c
+   - ctrl + v
+   - ctrl + w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
