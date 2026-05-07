@@ -24,6 +24,8 @@ pengaturan vim di vscode :
    - ctrl + c
    - ctrl + v
    - ctrl + w
+   - ctrl + z
+
 
 
 
