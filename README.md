@@ -1,2 +1,2 @@
 # vim
-Catatan pengaturan vim
+Catatan pribadi pengaturan vim
