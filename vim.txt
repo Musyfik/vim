@@ -25,6 +25,7 @@ pengaturan vim di vscode (menghapus behavior vim) :
    - ctrl + v
    - ctrl + w
    - ctrl + z
+   - ctrl + l
 
 
 pengaturan vim di vscode (merubah esc jadi kj) :
